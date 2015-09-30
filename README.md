@@ -14,7 +14,7 @@
 
 This module  implements a wiki based on the WikiCreole 1.0 specification. In addition to the basics as defined in the WikiCreole spec, the wiki features several powerful extensions, giving it great flexibility as a content authoring and presentation tool. It also features an equally flexible permission capability, making a single instance suitable for multiple collaborative efforts, each with their own policies.
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the gWiki Module (Admin side)*
 
 # Table of Content
