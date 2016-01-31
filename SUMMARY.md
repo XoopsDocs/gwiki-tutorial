@@ -5,6 +5,17 @@
 * [Preferences](book/3preferences.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
+    * [Creating and Editing Pages
+    * [Footnotes, Citations and References
+    * [Miscellaneous Directives
+    * [Related and Page Sets
+    * [Text Decorations
+    * [Formatting
+    * [Boxes
+    * [Tables
+    * [Links
+    * [Create Page Wizard 
+    * Extras
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
