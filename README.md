@@ -17,7 +17,7 @@ This module  implements a Wiki based on the WikiCreole 1.0 specification. In add
 ![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the gWiki Module (Admin side)*
 
-## Download/Fork the Module ![](assets/forkit.png) 
+## Download/Fork the Module ![](http://xoops.org/images/forkit.png)  
 
 **You can fork the module --> [here](https://github.com/geekwright/gwiki))** 
 
