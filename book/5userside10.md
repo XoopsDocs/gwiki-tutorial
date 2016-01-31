@@ -2,7 +2,7 @@
 
 ![](../assets/wizardicon.png)
 
-The Create Page Wizard provides a set of tools to assist in creating a new wiki page. Look for the wizard wand icon in the page information area when you first enter the editor with a new page name.
+The **Create Page Wizard** provides a set of tools to assist in creating a new wiki page. Look for the wizard wand icon in the page information area when you first enter the editor with a new page name.
 
 The administrator can also make the New Page **block** enter the Create Page Wizard instead of the Editor.
 The wizard will present a series of panels, each with Continue and Cancel options.
