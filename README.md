@@ -8,16 +8,24 @@
             
 ## User Manual
 
-© 2015 XOOPS Project ([www.xoops.org](http://xoops.org))    
+© XOOPS Project ([www.xoops.org](http://xoops.org))    
 
 ## Module Purpose 
 
 This module  implements a Wiki based on the WikiCreole 1.0 specification. In addition to the basics as defined in the WikiCreole spec, the wiki features several powerful extensions, giving it great flexibility as a content authoring and presentation tool. It also features an equally flexible permission capability, making a single instance suitable for multiple collaborative efforts, each with their own policies.
 
-![](assets/forkit.png) **You can fork it--> [here](https://github.com/geekwright/gwiki))** 
-
 ![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the gWiki Module (Admin side)*
+
+## Download/Fork the Module ![](assets/forkit.png) 
+
+**You can fork the module --> [here](https://github.com/geekwright/gwiki))** 
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/gwiki-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/gwiki-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/gwiki-tutorial) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
 # Table of Content
 
