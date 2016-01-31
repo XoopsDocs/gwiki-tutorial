@@ -20,14 +20,15 @@ For images assigned to the page (or a defined image library page) the image name
 If a page or library page image is specified with a max size, a resized version will be created or updated as needed, and served from a cached copy if possible.
 
 If the image is specified as a URL, the prefix "siteurl:" will be replaced with the URL for the site.
+```
 {{siteurl:/modules/gwiki/images/icon.png|Module Icon|center}}
+```
+![](../assets/logoModule.png)
 
 Module Icon
 ##Image Editor
 
-While editing a page, you can invoke the Image Editor using the image editor icon.
-
-Image Editor Icon
+While editing a page, you can invoke the Image Editor using the image editor icon ![](../assets/imageicon.png)
 
 The Image Editor allows an author to add images to the page being edited, so it can be accessed only within the page editor. Each page has its own virtual space in which to hold its images. Normally an image is entirely private to the single page to which it is connected. The administrator can designate special library pages that can share their images with the entire wiki.
 The Image Editor is divided into three areas, the Image Library, the Image Detail and the Image Insertion Tool.
@@ -51,7 +52,7 @@ The Image Editor is divided into three areas, the Image Library, the Image Detai
 This tool can be used to build the wiki markup needed to display the current image in the page being edited.
 - Align - align image left, right, center or no alignment
 - Max Size in Pixels - specifies the maximum pixel dimension for the image, leave blank for no reduction.
-- Insert Image Icon - Insert the wiki markup for the image and options selected into the page being edited, and close the image editor.
+- ![](../assets/insimgicon.png)  Insert the wiki markup for the image and options selected into the page being edited, and close the image editor.
 
 **Gallery**
 
