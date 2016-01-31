@@ -1,3 +1,4 @@
 # 5.5 Text Decorations
 
-![](../assets/deco01.jpg)
+
+![](../assets/deco001.png)
