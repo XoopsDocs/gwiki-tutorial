@@ -12,3 +12,4 @@
 * [Create Page Wizard ](book/5userside10.md)
 * [Extras](book/5userside11.md)
 
+![](../assets/front01.png)
