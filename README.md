@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module  implements a wiki based on the WikiCreole 1.0 specification. In addition to the basics as defined in the WikiCreole spec, the wiki features several powerful extensions, giving it great flexibility as a content authoring and presentation tool. It also features an equally flexible permission capability, making a single instance suitable for multiple collaborative efforts, each with their own policies.
+This module  implements a Wiki based on the WikiCreole 1.0 specification. In addition to the basics as defined in the WikiCreole spec, the wiki features several powerful extensions, giving it great flexibility as a content authoring and presentation tool. It also features an equally flexible permission capability, making a single instance suitable for multiple collaborative efforts, each with their own policies.
 
 ![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the gWiki Module (Admin side)*
@@ -24,11 +24,22 @@ This module  implements a wiki based on the WikiCreole 1.0 specification. In add
 * [Preferences](book/3preferences.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
+    * [Creating and Editing Pages](book/5userside01.md)
+    * [Footnotes, Citations and References](book/5userside02.md)
+    * [Miscellaneous Directives](book/5userside03.md)
+    * [Related and Page Sets](book/5userside04.md)
+    * [Text Decorations](book/5userside05.md)
+    * [Formatting](book/5userside06.md)
+    * [Boxes](book/5userside07.md)
+    * [Tables](book/5userside08.md)
+    * [Links](book/5userside09.md)
+    * [Create Page Wizard ](book/5userside10.md)
+    * [Extras](book/5userside11.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
+* [Other](book/8other.md) 
 * [Module Credits](book/9credits.md)
-* 
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
