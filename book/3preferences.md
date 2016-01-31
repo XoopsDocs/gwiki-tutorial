@@ -35,7 +35,7 @@ This is the default maximal pixel dimension for generated thumbnail images. If a
 Pages in this namespace will be used as templates in the Create Page Wizard. Leave blank to disable templates in the wizard.
 
 ###Format for Automatic Names
-Format string passed to PHP date() function to generate page names for namespaces configured for automatic naming.
+Format string passed to PHP [date()](http://us1.php.net/manual/en/function.date.php) function to generate page names for namespaces configured for automatic naming.
 
 ###Comments and Notifications
 The wiki supports XOOPS comments and notifications for wiki pages. All normal system options are supported. In addition, the wiki specific notification events are:
