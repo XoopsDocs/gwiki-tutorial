@@ -91,7 +91,7 @@ Here is a list of other icons shown in the page editor and their meanings.
 
 **History**
 
-History Icon The history tool can be accessed from the page information area both in the editor and the normal page views. The history tool provides a list of all the revisions of the page still tracked in the wiki. The following options are available:
+![History Icon](../assets/historyicon.png) The history tool can be accessed from the page information area both in the editor and the normal page views. The history tool provides a list of all the revisions of the page still tracked in the wiki. The following options are available:
 - View - Click on a page title to display a revision in the View pane.
 - Compare - Select this option to display a revision in the Compare pane.
 - Restore - Select this option to make the revision the active revision.

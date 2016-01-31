@@ -7,7 +7,7 @@ Images
 
 This is the full syntax for the wiki image mark up:
 
-{{image|alt text|align|max size}}
+```{{image|alt text|align|max size}}```
 
 - image can be a URL to an image, or the name of an image assigned to the current page or a defined library page
 - alt text is an optional, but strongly recommended, description of the image for accessibility uses when images are not displayed. For images assigned to the page, this will default to the text specified in the image definition if omitted.
