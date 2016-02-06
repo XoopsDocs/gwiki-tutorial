@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module **[gWiki](https://github.com/geekwright/gwiki)** 
 #### for XOOPS 2.5.7
       
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](en/assets/logoModule.png)
             
 ## User Manual
 
@@ -14,7 +14,7 @@
 
 This module  implements a Wiki based on the WikiCreole 1.0 specification. In addition to the basics as defined in the WikiCreole spec, the wiki features several powerful extensions, giving it great flexibility as a content authoring and presentation tool. It also features an equally flexible permission capability, making a single instance suitable for multiple collaborative efforts, each with their own policies.
 
-![image001.png](assets/image001.jpg)
+![image001.png](en/assets/image001.jpg)
 *Figure 1: Main view of the gWiki Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png)  
@@ -29,27 +29,27 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-    * [Creating and Editing Pages](book/5userside01.md)
-    * [Footnotes, Citations and References](book/5userside02.md)
-    * [Miscellaneous Directives](book/5userside03.md)
-    * [Related and Page Sets](book/5userside04.md)
-    * [Text Decorations](book/5userside05.md)
-    * [Formatting](book/5userside06.md)
-    * [Boxes](book/5userside07.md)
-    * [Tables](book/5userside08.md)
-    * [Links](book/5userside09.md)
-    * [Create Page Wizard ](book/5userside10.md)
-    * [Extras](book/5userside11.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) 
-* [Module Credits](book/9credits.md)
-* [About XOOPS CMS](book/10aboutxoops.md)
+* [Install/Uninstall](en/book/1install.md)
+* [Administration Menu](en/book/2administration.md)
+* [Preferences](en/book/3preferences.md)
+* [Operating Instructions](en/book/4operations.md)
+* [The User Side](en/book/5userside.md)
+    * [Creating and Editing Pages](en/book/5userside01.md)
+    * [Footnotes, Citations and References](en/book/5userside02.md)
+    * [Miscellaneous Directives](en/book/5userside03.md)
+    * [Related and Page Sets](en/book/5userside04.md)
+    * [Text Decorations](en/book/5userside05.md)
+    * [Formatting](en/book/5userside06.md)
+    * [Boxes](en/book/5userside07.md)
+    * [Tables](en/book/5userside08.md)
+    * [Links](en/book/5userside09.md)
+    * [Create Page Wizard ](en/book/5userside10.md)
+    * [Extras](en/book/5userside11.md)
+* [Blocks](en/book/6blocks.md)
+* [Templates](en/book/7templates.md)
+* [Other](en/book/8other.md) 
+* [Module Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
 
 ##License:
 
