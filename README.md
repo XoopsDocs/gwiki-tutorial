@@ -18,7 +18,7 @@ This module implements a Wiki based on the WikiCreole 1.0 specification. In addi
 
  _Figure 1: Main view of the gWiki Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.jpg)
+![](.gitbook/assets/image001.jpg)
 
 ### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
